@@ -28,7 +28,7 @@ Train a deep learning neural network to classify images using the CIFAR-10 datas
   - Plotted training and validation accuracy/loss curves to analyze model performance.
 
 ## Task 2: AI Agent with RAG and Function Calling
-
+Important : I couldn't run the Hugging Face API because it is taking time to take my submission approval for Meta LLama 2 API integration access
 ###  Objective
 Develop an AI agent capable of processing files as input using **LlamaIndex** or **LangChain**. The agent should exhibit reasoning capabilities, support **Retrieval-Augmented Generation (RAG)**, and implement **function calling** for arithmetic operations.
 
